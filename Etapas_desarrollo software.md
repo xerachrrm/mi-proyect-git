@@ -1,3 +1,6 @@
+Enlace a GIT
+![Enlace a Git](https://github.com/xerachrrm/mi-proyect-git/blob/main/Etapas_desarrollo%20software.md)
+
 # Etapas del Desarrollo de Software
 
 Este documento describe las principales **etapas del ciclo de vida del desarrollo de software (SDLC)**.
